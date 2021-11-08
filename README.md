@@ -1,5 +1,5 @@
 ## Hello <img src="https://i.imgur.com/GNz3qCl.gif" width="25px">, simply I am Shahad! 
-Well, My name is Shahad Mahmud, who is a software engineering and Machine Learning Enthusiast. Currently looking for a software engineering or machine learning role with great learning opportunities.
+Well, My name is Shahad Mahmud and I am a junior software engineering at ![Reve Systems](https://www.revesoft.com/). I am a NLP enthusiast and currently working with Bangla NLP. 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahad-mahmud/"><img height="30" src="https://i.imgur.com/nbDVVx2.png"></a>
   <a href="mailto:shahad9381@gmail.com"><img height="30" src="https://i.imgur.com/78azQZd.png"></a>
