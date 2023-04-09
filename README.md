@@ -1,5 +1,5 @@
-## Hello <img src="https://i.imgur.com/GNz3qCl.gif" width="18px">, simply I am Shahad! 
-Well, My name is Shahad Mahmud and I am a Software Engineering at ![Reve Systems](https://www.revesoft.com/). I am a NLP enthusiast and currently working with Bangla NLP. 
+## Hello <img src="https://i.imgur.com/GNz3qCl.gif" width="18px">! 
+Well, this is Shahad Mahmud and I am a Machine Learning Engineering at ![Giga Tech Limited](https://www.gigatechltd.com/). I am a NLP enthusiast and currently working with Bangla NLP. 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahad-mahmud/"><img height="30" src="https://i.imgur.com/nbDVVx2.png"></a>
   <a href="mailto:shahad9381@gmail.com"><img height="30" src="https://i.imgur.com/78azQZd.png"></a>
